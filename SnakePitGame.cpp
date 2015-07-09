@@ -8,7 +8,7 @@
 //		'd'(down), 'l'(left), or 'r'(right) to move the player around. You can simply 
 //		press enter to stand in place and not move. To see how many snakes you have killed 
 //		in what locations press 'h' for history. Happy gaming!
-
+ 
 #include <iostream>
 #include <string>
 using namespace std;
